@@ -2,12 +2,6 @@
 <h3 align="center">A Recent Computer Science and Engineering Graduate from Bangladesh</h3>
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/? username=iiftida&label=Profile%20views&color=0e75b6&style=flat" alt="iiftida" /> </p>
-
-
-
-
 - 🌱 I’m currently learning **ML and Research tools**
 
 - 📫 How to reach me **07iftida@gmail.com**
