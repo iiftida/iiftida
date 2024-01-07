@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Iftida Isaba</h1>
-<h3 align="center">A Recent Computer Science and Engineering Graduate from Bangladesh</h3>
+<h3 align="center">A Highly Motivated Computer Science and Engineering Graduate from Bangladesh</h3>
 
 
 - 🌱 I’m currently learning **ML and Research tools**
 
 - 📫 How to reach me **07iftida@gmail.com**
 
-- ⚡ Fun fact **I like to read books, watch series**
+- ⚡ Fun fact **I like to read books, watch series, Traveling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
